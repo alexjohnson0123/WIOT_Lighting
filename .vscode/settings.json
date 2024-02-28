@@ -3,5 +3,7 @@
         "${workspaceFolder}\\lighting-central",
         "${workspaceFolder}\\lighting-peripheral"
     ],
-    "cmake.sourceDirectory": "C:/Users/alexj/OneDrive/Documents/UVA_OneDrive/WIOT/Lighting/lighting-central"
+    "cmake.sourceDirectory": "C:/Users/alexj/OneDrive/Documents/UVA_OneDrive/WIOT/Lighting/lighting-central",
+    "nrf-connect.topdir": "${nrf-connect.sdk:2.5.1}",
+    "nrf-connect.toolchain.path": "${nrf-connect.toolchain:2.5.1}"
 }
