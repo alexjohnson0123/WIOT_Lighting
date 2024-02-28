@@ -2,5 +2,6 @@
     "nrf-connect.applications": [
         "${workspaceFolder}\\lighting-central",
         "${workspaceFolder}\\lighting-peripheral"
-    ]
+    ],
+    "cmake.sourceDirectory": "C:/Users/alexj/OneDrive/Documents/UVA_OneDrive/WIOT/Lighting/lighting-central"
 }
